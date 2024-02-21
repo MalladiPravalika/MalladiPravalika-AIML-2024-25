@@ -1,1 +1,2 @@
-# MalladiPravalika-AIML-2024-25
+LAB-01:[INTRODUCTION IN PYTHON PACKAGES-NUMPY,PANDAS,MATPLOTLIB AND ACCESS TO DATASOURCES
+(https://github.com/MalladiPravalika/MalladiPravalika-AIML-2024-25/blob/main/LAB_01.ipynb)
