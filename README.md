@@ -6,3 +6,5 @@ LAB-03:[IMPLEMENT AI GAME STRATEGY USING MINMAX AND ALPHA-BETA SEARCH ALGORITHM]
 (https://github.com/MalladiPravalika/MalladiPravalika-AIML-2024-25/blob/main/LAB_03.ipynb)
 LAB-04:[IMPLEMENT LINEAR REGRESSION USING BOSTON HOUSING DATA]
 (https://github.com/MalladiPravalika/MalladiPravalika-AIML-2024-25/blob/main/LAB_04.ipynb)
+LAB-05:[MPLEMENT LOGISTIC REGRESSION MODEL USING TITANIC SHIP DATASET](https://github.com/MalladiPravalika/MalladiPravalika-AIML-2024-25/blob/main/LAB_05.ipynb)
+
